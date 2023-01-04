@@ -29,7 +29,7 @@ def make_env(render_mode=None, render=False, **kwargs):
 def register_environments():
     for env_name in ENV_NAMES:
         register(
-            id=f'procgen-aisc-{env_name}-v0',
+            id=f'procgen-highres-aisc-{env_name}-v0',
             entry_point='procgen_highres_aisc.gym_registration:make_env',
             kwargs={"env_name": env_name},
         )
