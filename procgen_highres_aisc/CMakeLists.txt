@@ -67,6 +67,7 @@ add_library(env
   src/games/maze_aisc.cpp
   src/games/maze_yellowline.cpp
   src/games/maze_redline_yellowgem.cpp
+  src/games/maze_reddiag_redstraight_yellowgem.cpp
   src/games/maze_yellowstar_redgem.cpp
   src/games/miner.cpp
   src/games/ninja.cpp

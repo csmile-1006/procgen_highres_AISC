@@ -359,6 +359,7 @@ void images_load() {
         "kenney/Items/gemRed.png",
         "kenney/Items/yellow_line_diag.png",
         "kenney/Items/red_line_diag.png",
+        "kenney/Items/red_line_straight.png",
         "kenney/Enemies/snail_shell.png",
         "kenney/Enemies/fly_move.png",
         "kenney/Enemies/ladybug_fly.png",
